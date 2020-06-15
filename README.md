@@ -12,3 +12,5 @@ Nesse projeto foi possível aprender:
 - Como fazer login com o Facebook (precisa ser melhorado);
 
 - Como fazer uma conexão com WebService utilizando Retrofit(mas o endpoint disponibilizado pelo infnet não funcionou, ainda não sei porquê...);
+
+- Como usar ListView para carregar o endpoint;
