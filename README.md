@@ -7,8 +7,6 @@ Nesse projeto foi possível aprender:
 
 - Como usar máscaras de CPF, Telefone, entre outros;
 
-- Como validar formulário de cadastro com e-mail e nome (sem conter caracteres especiais);
-
 - Como salvar o cadastro do usuário no firebase authentication e no database;
 
 - Como fazer login com o Facebook (precisa ser melhorado);
